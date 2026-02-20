@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ialisson Roque
 
-🎯 **Engenheiro de Dados em formação**, com sólida base em **Matemática** e **Engenharia Eletrônica**, focado em pipelines de dados, ETL/ELT, SQL, Python e ambientes cloud.
+🎯 **Engenheiro de Dados em formação**, com sólida base em **Bacharelado em Matemática** e **Engenharia Eletrônica**, focado em pipelines de dados, ETL/ELT, SQL, Python e ambientes cloud.
 
 ---
 
@@ -15,7 +15,7 @@ Minha formação acadêmica me proporciona:
 Atualmente desenvolvo projetos práticos voltados para:
 - Pipelines de dados escaláveis
 - Processamento e transformação de dados
-- Qualidade, consistência e organização de dados
+- Qualidade e organização de dados
 - Integração entre software, dados e infraestrutura
 
 ---
@@ -35,7 +35,7 @@ Atualmente desenvolvo projetos práticos voltados para:
 ### Engenharia de Dados
 - ETL / ELT
 - Modelagem de dados
-- Airflow
+- Airflow *(em estudo)*
 - Apache Spark *(básico)*
 
 ### Bancos de Dados
@@ -44,7 +44,7 @@ Atualmente desenvolvo projetos práticos voltados para:
 - MongoDB
 
 ### Cloud & DevOps
-- AWS (S3, Glue – em estudo)
+- AWS *(S3, Glue – em estudo)*
 - Docker
 - Git & GitHub
 
@@ -66,9 +66,11 @@ Consultas SQL voltadas para análise de dados e métricas de negócio.
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ialisson&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ialisson&theme=tokyonight)
+
 ---
 
 ## 📫 Contato
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/ialissonroque/)
+- LinkedIn: https://www.linkedin.com/in/ialissonroque/
 - Email: ialissonroque10@gmail.com
