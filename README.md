@@ -66,8 +66,7 @@ Consultas SQL voltadas para análise de dados e métricas de negócio.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ialisson&show_icons=true&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Ialisson&theme=tokyonight)
 ---
 
 ## 📫 Contato
