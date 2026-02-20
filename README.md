@@ -71,5 +71,5 @@ Consultas SQL voltadas para análise de dados e métricas de negócio.
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/
-- Email: seuemail@email.com
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/ialissonroque/)
+- Email: ialissonroque10@gmail.com
