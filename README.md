@@ -61,7 +61,6 @@ ETL completo a partir de arquivos CSV com validação, limpeza e padronização 
 🔹 **sql-analytics-project**  
 Consultas SQL voltadas para análise de dados e métricas de negócio.
 
-*(fixar esses repositórios no perfil)*
 
 ---
 
